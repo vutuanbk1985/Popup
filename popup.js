@@ -22,8 +22,8 @@ window.addEventListener('load', show);
 closebtn.addEventListener('click', () => {
     // popup.classList.remove('visibility-toggle');
     // popup.classList.toggle('invisibility-toggle');
-    // popup.classList.toggle('visibility-toggle');
-    alert('Good bye');
+    popup.classList.toggle('visibility-toggle');
+    // alert('Good bye');
 })
 
 
